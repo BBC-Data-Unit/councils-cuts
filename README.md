@@ -12,4 +12,35 @@ Children's Commissioner Dame Rachel de Souza (pictured above) said: "Children mu
 
 Local government minister Jim McMahon said the new government had inherited a crisis and there was "no shying away" from the scale of it.
 
+# Methodology
 
+
+
+# The UK data we provided:
+
+- 
+
+
+# Get the data
+
+We produced [this story pack]() and [this dataset]().
+
+
+# Interviews and quotes
+
+- 
+
+Statements
+- 
+
+
+
+
+# Partner usage
+
+The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
+
+- 
+
+
+## Other usage
