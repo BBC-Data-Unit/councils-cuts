@@ -38,7 +38,7 @@ Population figures corresponded to data published by the Office for National Sta
 
 # What we found:
 
-- The net budget requirement for the councils who responded totalled £70.28bn, i.e. the amount they needed to spend to fund the services they offer for 2024-25
+- The net budget requirement for the councils who responded totalled £70.28bn, i.e. the amount they would need to spend to fund the services they offered for 2024-25
 - To try and meet that cost, councils approved at least £3.04bn in savings for 2024-25
 - And they dipped into their reserves, approving the drawing down of £1.08bn, including £816m in earmarked funding and £266.79 from general reserves
 - By 2026-27, the cumulative shortfall facing those councils would stand at £5.73bn, according to local authority estimations – when we asked the same question in the previous year, councils had predicted a £5.29bn shortfall for 2025-26.
