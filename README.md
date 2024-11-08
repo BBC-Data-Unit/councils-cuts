@@ -68,11 +68,61 @@ Statements
 - Carmarthenshire Council
 
 
+# BBC usage
+
+The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership.
+
+This story was covered by BBC platforms online, in TV and on radio. 
+
+National BBC stations that had the story in their running orders across radio or TV included: The 6 'O Clock News; News at Ten; Politics Live; Radio 1; Radio 2; Radio 3; Radio 4 and 5Live. 
+
+The story was also used by local BBC TV and radio stations including BBC London, Tees, Cumbria, Leicester, Sheffield, Shropshire, Wiltshire, Stoke, LookEast, LookNorth and Wales Today.
+
+Online coverage included several BBC articles featuring localised takes on our [national version of the story, which was used on the BBC's front page](https://www.bbc.co.uk/news/articles/c3rl3z0wn27o). Examples include:
+
+- [BBC Dorset](https://www.bbc.co.uk/news/articles/ckgnp1vvnj8o)
+- [BBC London](https://www.bbc.co.uk/news/articles/cdrjp3dglp0o)
+- [BBC Suffolk](https://www.bbc.co.uk/news/articles/cdrjpgg4ky0o)
+- [BBC Kent](https://www.bbc.co.uk/news/articles/c4gr788m2l8o)
+- [BBC Bedfordshire](https://www.bbc.co.uk/news/articles/cgq8p1dlxq1o)
+- [BBC Essex](https://www.bbc.co.uk/news/articles/czeg2p3xzl4o)
+- [BBC Surrey](https://www.bbc.co.uk/news/articles/crl8pdj004zo)
+- [BBC Wales](https://www.bbc.co.uk/news/articles/cx2kevnevwxo)
+- [BBC Hampshire](https://www.bbc.co.uk/news/articles/c981rgee96no)
+- [BBC Shropshire](https://www.bbc.co.uk/news/articles/cdx9kgpzzelo)
+- [BBC West Northamptonshire](https://www.bbc.co.uk/news/articles/crm21l94m1ko)
+- [BBC Norfolk](https://www.bbc.co.uk/news/articles/c87029vg4plo)
+- [BBC Peterborough](https://www.bbc.co.uk/news/articles/cwyv2vvn97zo)
+- [BBC Hertfordshire](https://www.bbc.co.uk/news/articles/c3e9wejkewzo)
+- [BBC Cambridgeshire](https://www.bbc.co.uk/news/articles/cgk701dxvk0o)
+- [BBC Cornwall](https://www.bbc.co.uk/news/articles/c0kj280kje0o)
+- [BBC East Sussex](https://www.bbc.co.uk/news/articles/cx2y9zxznwro)
+- [BBC Surrey](https://feeds.bbci.co.uk/news/articles/crl8pdj004zo)
+
 # Partner usage
 
-The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
+Stories written by external partners based on this research included:
 
-- 
+- [Liverpool Echo: Massive council budget black hole](https://www.liverpoolecho.co.uk/news/liverpool-news/massive-council-budget-black-hole-30133351)
+- [Chronicle Live: Fears of lifetime cost for children as North East councils face £196m black hole](https://www.chroniclelive.co.uk/news/north-east-news/north-east-council-funding-children-30125108)
+- [Darlington and Stockton Times: Children at risk from council funding crisis](https://www.darlingtonandstocktontimes.co.uk/news/24647489.children-risk-council-funding-crisis-analysis-shows/)
+- [Hexham Courant: North east councils looking at spending cuts amid funding crisis](https://www.hexham-courant.co.uk/news/24648311.north-east-councils-looking-spending-cuts-amid-funding-crisis/)
+- [Cambridgeshire Live: Cambridgeshire councils face £56m blackhole in budget](https://uk.news.yahoo.com/cambridgeshire-councils-face-56m-blackhole-160000591.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAJUelxUxRw5huYaQ-Su_DFCuVFPO4Ez5R6ySizfEyrc_dxmp5P-ILk-taL_PUZ-xaq6Av-MNWNnA7zmE3muAnAh0GP0pJPhKlcEuaJ5bqbDABJEnd_FOob7mL6sSZgxEM_5YksiFQh2V5STtXBblXGnR9326XFgUipljwe76-MFr)
+- [Kent Online: Kent County Council faces £55m increase in savings - or going bust](https://www.kentonline.co.uk/kent/news/council-faces-55m-hike-in-savings-or-going-bust-314326/)
+- [Bedford Independent: Record council rises on way to bridge budget gaps](https://www.bedfordindependent.co.uk/concerns-record-council-tax-rises-on-the-way-to-bridge-bedford-borough-councils-budget-gaps/)
+- [Shropshire Star: Shropshire Council cuts among the worst in the country as finances sit on a knife edge](https://www.shropshirestar.com/news/politics/2024/10/13/shropshire-council-cuts-among-worst-in-the-country-as-authoritys-finances-sit-on-a-knife-edge/)
+- [Sunderland Echo: North east authorities face £200m of public funds cuts](https://www.pressreader.com/uk/sunderland-echo/20241014/281689735265513)
+- [Worcester News: Fears over impact of budget cuts on children](https://www.worcesternews.co.uk/news/24651721.fears-impact-county-council-budget-cuts-children/)
+- [Border Counties Advertizer: Shropshire Council making the highest savings in England](https://www.bordercountiesadvertizer.co.uk/news/24650256.shropshire-council-making-highest-savings-england/)
+- [Wakefield Express: Opposition accuse Labour leadership of financial incompetence over budget black hole](https://www.wakefieldexpress.co.uk/news/people/opposition-accuse-labour-leadership-of-financial-incompetence-over-councils-ps88m-budget-black-hole-4823087)
+- [Evesham Journal: Fears over impact of budget cuts on children](https://www.eveshamjournal.co.uk/news/24651721.fears-impact-county-council-budget-cuts-children/)
+- [Isle of Wight Observer: Council leader admits to forecasted budget overspend of £5.7m](https://iwobserver.co.uk/council-leader-admits-to-forecasted-budget-overspend-of-around-5-7-million-this-year/)
+- [Doncaster Free Press: Doncaster among councils forced to make savings in children's services amidst funding crisis](https://www.doncasterfreepress.co.uk/business/consumer/cost-of-living/doncaster-among-councils-forced-to-make-savings-in-childrens-services-amidst-funding-crisis-4828401)
+- [Kentish Gazette: Council faces £55m hike in savings to avoid going bust](https://www.pressreader.com/uk/kentish-gazette-canterbury-district/20241017/281681145337209)
 
+# Other usage
 
-## Other usage
+Stories written by external outlets based on this research included:
+
+- [Local Government Chronicle: No easy route to financial recovery](https://www.lgcplus.com/politics/lgc-briefing/theres-no-easy-route-to-financial-recovery-14-10-2024/)
+- [Home of Science: Children face lifetime cost of council crisis](https://www.homeofscience.net/2024/10/14/children-face-lifetime-cost-of-council-crisison-october-14-2024-at-123-am/)
